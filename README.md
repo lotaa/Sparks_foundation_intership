@@ -3,6 +3,7 @@
 ## Prediction Using Unsupervised (Level - Begginer)
 ### K- Means Clustering
 * Implementation Of K-means_Clutering We will see implementation of K-means Clutering With Scikit-Learn library for machine learning This is a basic of K-means in data set iris.
+* From the given 'iris' dataset predict the optimal number of cluster and represent is visually.  
 
 ![EDA#2_1](https://user-images.githubusercontent.com/49419507/159109355-f6c8189c-c6d7-484b-99df-b217d4d36dc3.png)
 
